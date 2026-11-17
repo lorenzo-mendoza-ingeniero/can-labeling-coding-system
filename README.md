@@ -19,9 +19,8 @@ El informe detalla el diseño, modelamiento y construcción de una maqueta elect
 ## Results / Evidence
 - Key result or metric:
 Ejecución esperada de la lógica electroneumática.
-- Photos/videos:
-[![Mira la demo del proyecto](<img width="1920" height="1080" alt="Captura de pantalla (295)" src="https://github.com/user-attachments/assets/f9b9e1c2-1e60-418d-a5d1-0348e56f67d3" />)](https://www.youtube.com/playlist?list=PLFLzO6kCow5g)
-- Report: 
+- Photos/videos: [![Mira la demo del proyecto](<img width="1920" height="1080" alt="Captura de pantalla (295)" src="https://github.com/user-attachments/assets/f9b9e1c2-1e60-418d-a5d1-0348e56f67d3" />)](https://www.youtube.com/playlist?list=PLFLzO6kCow5g)
+- Report: [Descargar el informe completo en PDF](docs/Sistema_Automatizado_Electroneumático_Latas.pdf)
 
 ## Repository contents
 - `docs/` — report and figures
