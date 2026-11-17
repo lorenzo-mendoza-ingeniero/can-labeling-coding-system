@@ -17,7 +17,8 @@ El informe detalla el diseño, modelamiento y construcción de una maqueta elect
 - Validar el funcionamiento electroneumático desde la PLC, pasando por el cableado eléctrico y neumático, y hasta el compresor.
 
 ## Results / Evidence
-- Key result or metric: 
+- Key result or metric:
+Ejecución esperada de la lógica electroneumática.
 - Photos/videos:
 [![Mira la demo del proyecto](<img width="1920" height="1080" alt="Captura de pantalla (295)" src="https://github.com/user-attachments/assets/f9b9e1c2-1e60-418d-a5d1-0348e56f67d3" />)](https://www.youtube.com/playlist?list=PLFLzO6kCow5g)
 - Report: 
