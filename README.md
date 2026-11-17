@@ -3,7 +3,7 @@
 **Context:** Proyecto grupal de ingeniería para el curso de "Sistemas Electrohidráulicos y Electroneumáticos (MT242)". Incorpora los fundamentos de la programación, configuración y cableado de PLCs en sistemas electroneumáticos.
 **Date:** 2026  
 **Tools:** SolidWorks, MATLAB, FluidSIM, TíaPortal.
-**Status:** Completo
+**Status:** Completo.
 
 ## Summary
 El informe detalla el diseño, modelamiento y construcción de una maqueta electroneumática automatizada para el etiquetado y codificación de latas de comida, usando envases tipo Pringles como estándar. Aborda los cuellos de botella de los procesos manuales mediante el dimensionamiento de actuadores neumáticos y el diseño de una lógica de control secuencial. El objetivo principal es validar empíricamente la viabilidad técnica y la integridad del producto, sirviendo como prueba de concepto escalable para una futura implementación a escala industrial.
