@@ -2,7 +2,7 @@
 
 **Context:** Course / personal project — Universidad Nacional de Ingeniería  
 **Date:** 2026  
-**Tools:** SolidWorks, MATLAB, Python, Proteus, etc.  
+**Tools:** SolidWorks, MATLAB, FluidSIM, TíaPortal.
 **Status:** Completed / documented retrospectively
 
 ## Summary
